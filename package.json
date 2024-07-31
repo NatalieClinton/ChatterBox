@@ -1,0 +1,21 @@
+{
+  "name": "chatterbox",
+  "version": "1.0.0",
+  "description": "Repository for UTOR Assignment 18 (Due July 9th 2024)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
